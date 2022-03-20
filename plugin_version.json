@@ -8,10 +8,9 @@
       "enabled": true,
       "host": "https://www.admva.com",
       "target": "/dstable",
-      }
     },
     "aircraft_profiles":{
-      "use_custom": false,
+      "use_custom": true,
       "revert_to_default": true
     }
   }
