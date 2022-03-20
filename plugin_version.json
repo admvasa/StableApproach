@@ -8,9 +8,6 @@
       "enabled": true,
       "host": "https://www.admva.com",
       "target": "/dstable",
-      "semver": {
-        "min": "1.1.0",
-        "max": "1.98.0"
       }
     },
     "aircraft_profiles":{
