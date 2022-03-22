@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "https://www.admva.com",
+      "host": "www.admva.com",
       "target": "/dstable",
       "semver": {
         "min": "1.1.0",
