@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "api.stableapproach.net",
+      "host": "www.admva.com",
       "target": "/report",
       "semver": {
         "min": "1.4.0-beta.1",
